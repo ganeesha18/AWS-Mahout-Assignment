@@ -1,11 +1,15 @@
 # AWS-Mahout-Assignment
 
-https://aws.amazon.com/blogs/big-data/building-a-recommender-with-apache-mahout-on-amazon-elastic-mapreduce-emr/
+## Demo video Link
+
+https://drive.google.com/file/d/1cj-vaWWPhhblxLo05KxN_1s9Va7WAf7r/view?usp=sharing
 
 ## Introduction
 
 This is to demonstrate how to build an analytic job with Mahout on EMR, we’ll build a movie recommender. 
 We will start with ratings given to movie titles by users in the MovieLens data set, which was compiled by the GroupLens team, and will use the “recommenditembased” example to find most-recommended movies for each user.
+
+https://aws.amazon.com/blogs/big-data/building-a-recommender-with-apache-mahout-on-amazon-elastic-mapreduce-emr/
 
 ## Building a Recommender
 
